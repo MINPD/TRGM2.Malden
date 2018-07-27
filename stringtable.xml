@@ -192,6 +192,14 @@
 				<Spanish>Apoyo aéreo solicitado</Spanish>
 				<Korean>항공 지원 요청</Korean>
 			</Key>
+			<Key ID="STR_TRGM2_attemptendmission_HQ">
+				<Original>The HQ teamleader needs to select this</Original>
+				<English>The HQ teamleader needs to select this</English>
+                <Chinese>HQ的隊長必需選擇這個</Chinese>
+                <Chinesesimp>HQ的队长必需选择这个</Chinesesimp>
+				<Spanish>El líder de HQ debe seleccionar esto</Spanish>
+				<Korean>HQ 분대장의 선택이 필요합니다.</Korean>
+			</Key>
 			<Key ID="STR_TRGM2_attemptendmission_Kilo1">
 				<Original>The Kilo-1 teamleader needs to select this</Original>
 				<English>The Kilo-1 teamleader needs to select this</English>
@@ -871,7 +879,6 @@
                 <Chinesesimp>&lt;br/&gt;&lt;br/&gt;你必需搜索尸体来确认身分!&lt;br/&gt;&lt;br/&gt;</Chinesesimp>
 				<Spanish>&lt;br/&gt;&lt;br/&gt;Debes registrar el cuerpo para identificar el objetivo!&lt;br/&gt;&lt;br/&gt;</Spanish>
 				<Korean>&lt;br/&gt;&lt;br/&gt;이 대상을 식별하려면, 시체를 검색해야 합니다!&lt;br/&gt;&lt;br/&gt;</Korean>
-				<Korean>&lt;br/&gt;&lt;br/&gt;이 대상을 식별하려면, 시체를 검색해야 합니다!&lt;br/&gt;&lt;br/&gt;</Korean>
 			</Key>
 			<Key ID="STR_TRGM2_startInfMission_MissionTitle9">
 				<Original>Destroy AAA vehicles</Original>
@@ -990,7 +997,7 @@
                 <Chinese>從帳篷中取出小型載具</Chinese>
                 <Chinesesimp>从帐篷中取出小型载具</Chinesesimp>
 				<Spanish>Quita el vehículo ligero de la tienda</Spanish>
-				<Korean>텐트에서 작은 차량을 제거하십시오</Korean
+				<Korean>텐트에서 작은 차량을 제거하십시오</Korean>
 			</Key>
 			<Key ID="STR_TRGM2_startInfMission_UnloadDingy">
 				<Original>Unload Dingy</Original>
@@ -1466,7 +1473,7 @@
                 <Chinese>%2的%1方</Chinese>
                 <Chinesesimp>%2的%1方</Chinesesimp>
 				<Spanish>%1 de %2</Spanish>
-				<Korean>%2 의 %1</Korean
+				<Korean>%2 의 %1</Korean>
 			</Key>
 			<Key ID="STR_TRGM2_location_fngetLocationName_At">
 				<Original>at %1</Original>
@@ -2553,7 +2560,7 @@
                 <Chinese>未勾選</Chinese>
                 <Chinesesimp>未勾选</Chinesesimp>
 				<Spanish>Sin comprobar</Spanish>
-				<Korean>선택 안함</Koran>
+				<Korean>선택 안함</Korean>
 			</Key>
 			<Key ID="STR_TRGM2_defines_CHECKED">
 				<Original>CHECKED</Original>
@@ -3468,17 +3475,10 @@
 				<English>You have destroyed enemy artillery, reputation increased</English>
 				<Korean>당신은 적 야포를 파괴하였습니다. 명성이 올라감</Korean>
 			</Key>
-			<Key ID="STR_TRGM2_startInfMission_MissionTitle9_Destory">
-				<Original>You have destroyed enemy AAA, reputation increased</Original>
-				<English>You have destroyed enemy AAA, reputation increased</English>
-			</Key>
-			<Key ID="STR_TRGM2_startInfMission_MissionTitle10_Destory">
-				<Original>You have destroyed enemy artillery, reputation increased</Original>
-				<English>You have destroyed enemy artillery, reputation increased</English>
-			</Key>
 			<Key ID="STR_TRGM2_TRGMSetUnitGlobalVars_GroupManagement">
 				<Original>Enable Group Management</Original>
 				<English>Enable Group Management</English>
+				<Korean>그룹 관리 활성</Korean>
 			</Key>
 		</Container>
 	</Package>
