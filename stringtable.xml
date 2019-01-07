@@ -3501,18 +3501,21 @@
             <Key ID="STR_TRGM2_TRGMSetUnitGlobalVars_GroupManagement">
                 <Original>Enable Group Management</Original>
                 <English>Enable Group Management</English>
+                <Korean>그룹관리활성화</Korean>
                 <Chinese>開啟小隊管理器</Chinese>
                 <Chinesesimp>开启小队管理器</Chinesesimp>
             </Key>
             <Key ID="STR_TRGM2_SetMissionBoardOptions_TurnInMission">
                 <Original>Turn in mission</Original>
                 <English>Turn in mission</English>
+                <Korean>임무넘기기</Korean>
                 <Chinese>交還任務</Chinese>
                 <Chinesesimp>交还任务</Chinesesimp>
             </Key>
             <Key ID="STR_TRGM2_startInfMission_DayTurnedIn">
                 <Original>Mission turned in</Original>
                 <English>Mission turned in</English>
+                <Korean>임무가 넘어갔습니다</Korean>
                 <Chinese>任務已交還</Chinese>
                 <Chinesesimp>任务已交还</Chinesesimp>
             </Key>
